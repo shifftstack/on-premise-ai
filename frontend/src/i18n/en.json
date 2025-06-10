@@ -1,0 +1,21 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "email": "Email",
+  "password": "Password",
+  "upload": "Upload",
+  "upload_success": "Upload successful",
+  "upload_failed": "Upload failed",
+  "documents": "Uploaded Documents",
+  "by": "by",
+  "at": "at",
+  "chat": "Chat",
+  "send": "Send",
+  "user_management": "User Management (Admin Only)",
+  "delete": "Delete",
+  "admin": "(admin)",
+  "sources": "Sources",
+  "error": "Error",
+  "loading": "Loading..."
+} 

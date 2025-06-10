@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+passlib[bcrypt]
+python-jose
+chromadb
+langchain
+requests
+pypdf
+python-docx 
